@@ -6,7 +6,7 @@ A simple text messenger written in Java and React Native.
 ## Features
 - ✉️ **Real-time Messaging**: Send and receive messages instantly.
 - 🌐 **Cross-Platform Compatibility**: Built with React Native and Expo for seamless operation on iOS and Android devices.
-- 🔒 **User Authentication**: Secure login through JWT.
+- 🔒 **User Authentication**: Secure login through JWT encryption.
 - 👥 **Group Chats**: Create and manage group chats for easy collaboration.
 - 💾 **Backend Stability**: Reliable server-side functionality powered by Java.
 
