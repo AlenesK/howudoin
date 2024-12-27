@@ -1,5 +1,5 @@
 # howudoin
-CS310 Mobile App Development - Term Project
+CS310 Mobile App Development - 2024 Fall Term Project
 
 A simple text messenger written in Java and React Native.
 
